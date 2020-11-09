@@ -1,0 +1,15 @@
+        /* color theme: e0ece4, ff4b5c, 056674, 66bfbf */
+        body {
+            background-color: #f0f0f0;
+        }
+
+        hr {
+            border-style: dotted none none none;
+            width: 5%;
+            border-width: 1rem;
+            border-color: grey;
+        }
+
+        h1, h3{
+            color: #a5add2;
+        }
