@@ -11,5 +11,9 @@
         }
 
         h1, h3{
-            color: #a5add2;
+            color: #2F4F4F;
+        }
+
+        .sample_img_class:hover{
+            background-color: red;
         }
